@@ -49,8 +49,3 @@ La base de datos fue migrada a Supabase utilizando un script SQL exportado desde
 
 Desarrollar un sistema backend funcional en la nube que permita gestionar información académica de estudiantes.
 
----
-
-## 👨‍💻 Autor
-
-Estudiante DAW - Sistema de Notas
